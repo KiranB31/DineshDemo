@@ -18,6 +18,5 @@ public class MapstructApplication {
 	{
 		return modelMapper();
 	}
-	//
 
 }
