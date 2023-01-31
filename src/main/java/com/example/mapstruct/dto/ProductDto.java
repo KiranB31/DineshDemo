@@ -10,7 +10,6 @@ import javax.persistence.Id;
 @Setter
 public class ProductDto {
 
-    
     @Id
     private int id;
     private String name;
